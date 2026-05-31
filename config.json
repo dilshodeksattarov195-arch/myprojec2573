@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicertringify",
+        "uuid": 14776739,
+        "checksum": "tdoxhr"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
